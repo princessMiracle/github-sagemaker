@@ -1,1 +1,1 @@
-# mine-ml
+# github-sagemaker
